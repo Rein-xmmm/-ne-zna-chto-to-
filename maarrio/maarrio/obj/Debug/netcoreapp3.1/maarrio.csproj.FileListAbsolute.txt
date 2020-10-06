@@ -1,0 +1,13 @@
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\obj\Debug\netcoreapp3.1\maarrio.csprojAssemblyReference.cache
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\obj\Debug\netcoreapp3.1\maarrio.AssemblyInfoInputs.cache
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\obj\Debug\netcoreapp3.1\maarrio.AssemblyInfo.cs
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\obj\Debug\netcoreapp3.1\maarrio.csproj.CoreCompileInputs.cache
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\bin\Debug\netcoreapp3.1\maarrio.exe
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\bin\Debug\netcoreapp3.1\maarrio.deps.json
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\bin\Debug\netcoreapp3.1\maarrio.runtimeconfig.json
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\bin\Debug\netcoreapp3.1\maarrio.runtimeconfig.dev.json
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\bin\Debug\netcoreapp3.1\maarrio.dll
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\bin\Debug\netcoreapp3.1\maarrio.pdb
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\obj\Debug\netcoreapp3.1\maarrio.dll
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\obj\Debug\netcoreapp3.1\maarrio.pdb
+C:\Users\Zakrae Nout))\Desktop\для учебы\C#\maarrio\maarrio\obj\Debug\netcoreapp3.1\maarrio.genruntimeconfig.cache
